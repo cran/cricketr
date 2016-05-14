@@ -1,12 +1,15 @@
 # cricketr
 This R package can be used to analyze performances of cricketers based on stats from ESPN Cricinfo.
 
-The package be installed as follows
+The package be installed directly from CRAN as
+install.packages("cricketr")
+
+or from Github as follows
 library(devtools)
 install_github("tvganesh/cricketr")
 library(cricketr)
 
-Details of this package has been hosted as a gh-page in [Introducing cricketr: A R package for analyzing performances of cricketer](http://tvganesh.github.io/cricketer/cricketer.html)
+Details of this package can be read from my blog Giga thoughts in [Introducing cricketr: A R package for analyzing performances of cricketer](https://gigadom.wordpress.com/2015/07/04/introducing-cricketr-a-r-package-to-analyze-performances-of-cricketers/)
 
 Also see my other posts in R and cricket
 
