@@ -1,4 +1,4 @@
-756e556f5dfccdfa99b653d181e71f85 *DESCRIPTION
+fdb242465f8169f2c6b0667db16f9fa4 *DESCRIPTION
 a9099afe406d7320126ae1bcdc8b2ca3 *LICENSE
 0a412bc4eb853c947d621248f361e7f6 *NAMESPACE
 2e1f05fdc1b4a31e96bd97ba1f7332d8 *R/batsman4s.R
@@ -38,10 +38,10 @@ eb20b52fa327ea969a600c253dc1c755 *R/checkBatsmanInForm.R
 43a7468f57314a9ce57c5195ea974d00 *R/checkBowlerInForm.R
 1587351e60b0b26f63a81e3b090024e5 *R/clean.R
 edfb89a3019bbe6aee10ffa225b2af5e *R/cleanBowlerData.R
-23c587ebe75adedccabdbc5ed585673a *R/getPlayerData.R
-42e7bcc65720149ae304a77f871827c2 *R/getPlayerDataOD.R
+561955377553e24fdd1e497707aa6a39 *R/getPlayerData.R
+35931bd34bd5635fc3b1d428f627679b *R/getPlayerDataOD.R
 44afad137dbde2715ed4451d4dfd0be9 *R/getPlayerDataSp.R
-4994aa8eef0b0a5168c44894c45c79cd *R/getPlayerDataTT.R
+d6e076ad35788fe02aa47badf4c6c136 *R/getPlayerDataTT.R
 7895e9db970f6bcbfa2f0fdd9f49b603 *R/relativeBatsmanCumulativeAvgRuns.R
 ee1aead03afcf0a200582203a1ed46bf *R/relativeBatsmanCumulativeStrikeRate.R
 0a1986b9b580fe6185b17c3026d85d0e *R/relativeBatsmanSR.R
@@ -54,7 +54,7 @@ b17fdf58781127aa0b9ac3e6e5f3c335 *R/relativeBowlerCumulativeEconRate.R
 45c60a375b1326525f9b3387b8f193a5 *R/relativeRunsFreqPerf.R
 e1331f2c378427ba6fa6391f8f80275b *R/relativeRunsFreqPerfODTT.R
 05cee6455cded259b4c5cd1fc8bd7732 *R/relativeWktRateTT.R
-b42aa6f71a6ae4530073e1a265262b15 *README.md
+0f82af6f09e3a3f7f62dfbb2f3d5cb74 *README.md
 8dbb05eee300020a792781d3d04a5460 *data/ashwin.csv
 dc90a1d85b4184be72988871ffc73e85 *data/ashwin1.csv
 579b43decd7ec0855339115114c12e2c *data/badree.csv
@@ -131,10 +131,10 @@ bdb722969690fef4570c34f74f59c4ee *man/checkBowlerInForm.Rd
 c76f361ed609e47ff3f0e8f4ffea8c5d *man/dravid.Rd
 0afebfa9f68192b6e9f4c2cc07c8a025 *man/ganguly.Rd
 efcc5ad4b6a42aeaf070dea68a9be270 *man/gayle.Rd
-1832d9ad76cec7473796e89df3238fd1 *man/getPlayerData.Rd
-3f4d2f57eef5ae4004c83e04a171b4ec *man/getPlayerDataOD.Rd
+6d4ebbc40311d54a4243f87522a41421 *man/getPlayerData.Rd
+3e33a725f4043a162f83b2a5cd78befb *man/getPlayerDataOD.Rd
 9a425bacd1d8752a0e817e260cb7a575 *man/getPlayerDataSp.Rd
-77ec12f093b58e14c1a6ab4ff2a993ad *man/getPlayerDataTT.Rd
+db7fe87ea653199546712c20a67fa682 *man/getPlayerDataTT.Rd
 2d5a768d81ec9633093e0a0ff7765358 *man/kohli.Rd
 8fad75a53ab529b63fbabee5f9344043 *man/kohli1.Rd
 e8dc302408c874a59f8857aa25cf333b *man/kumble.Rd
