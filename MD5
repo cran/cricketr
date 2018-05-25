@@ -1,4 +1,4 @@
-fdb242465f8169f2c6b0667db16f9fa4 *DESCRIPTION
+b6d46655dcdf22fb3db2e523088b0482 *DESCRIPTION
 a9099afe406d7320126ae1bcdc8b2ca3 *LICENSE
 0a412bc4eb853c947d621248f361e7f6 *NAMESPACE
 2e1f05fdc1b4a31e96bd97ba1f7332d8 *R/batsman4s.R
@@ -54,7 +54,8 @@ b17fdf58781127aa0b9ac3e6e5f3c335 *R/relativeBowlerCumulativeEconRate.R
 45c60a375b1326525f9b3387b8f193a5 *R/relativeRunsFreqPerf.R
 e1331f2c378427ba6fa6391f8f80275b *R/relativeRunsFreqPerfODTT.R
 05cee6455cded259b4c5cd1fc8bd7732 *R/relativeWktRateTT.R
-0f82af6f09e3a3f7f62dfbb2f3d5cb74 *README.md
+16634a475b951878816428c143a84812 *README.md
+5ed5a059efde54054e6a35ce4a7812cd *build/partial.rdb
 8dbb05eee300020a792781d3d04a5460 *data/ashwin.csv
 dc90a1d85b4184be72988871ffc73e85 *data/ashwin1.csv
 579b43decd7ec0855339115114c12e2c *data/badree.csv
@@ -126,7 +127,7 @@ d957bca0605be08e72c1196edfde4ad0 *man/bowlerWktsFreqPercent.Rd
 bdb722969690fef4570c34f74f59c4ee *man/checkBowlerInForm.Rd
 9d0ace5f8213a24a98a7f3841fa0a833 *man/clean.Rd
 2d3773739012ce604513fcafb93ae57d *man/cleanBowlerData.Rd
-5b0a53d908c7bca4e4eb67c2ac04c1de *man/cricketr-package.Rd
+64bc5685a0f5b23f99457b9927f84e97 *man/cricketr-package.Rd
 2de2a2666cd639d118492a8730e79bcc *man/devilliers.Rd
 c76f361ed609e47ff3f0e8f4ffea8c5d *man/dravid.Rd
 0afebfa9f68192b6e9f4c2cc07c8a025 *man/ganguly.Rd
