@@ -52,16 +52,11 @@ Tinniam V Ganesh <tvganesh.85@gmail.com>
 # Retrieve the file path of a data file installed with cricketr
 tendulkar <- system.file("data", "tendulkar.csv", package = "cricketr")
 ganguly <- system.file("data", "ganguly.csv", package = "cricketr")
-dravid <- system.file("data", "dravid.csv", package = "cricketr")
 
-batsmen <- list(tendulkar,dravid,ganguly)
-names <- list("Tendulkar","Dravid","Ganguly")
+batsmen <- list(tendulkar,ganguly)
+names <- list("Tendulkar","Ganguly")
 relativeRunsFreqPerf(batsmen,names)
 
 # Note: This example uses the /data directory for the files. However
 # you can use any directory as long as the data files exists in that directory.
 }
-% Add one or more standard keywords, see file 'KEYWORDS' in the
-% R documentation directory.
-\keyword{ ~kwd1 }
-\keyword{ ~kwd2 }% __ONLY ONE__ keyword per line
