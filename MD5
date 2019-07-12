@@ -1,4 +1,4 @@
-5fc82a07261b8111675a7934fdb4a6cf *DESCRIPTION
+09595c81c90d86077bd8664be2fc2ad6 *DESCRIPTION
 a9099afe406d7320126ae1bcdc8b2ca3 *LICENSE
 0a412bc4eb853c947d621248f361e7f6 *NAMESPACE
 2e1f05fdc1b4a31e96bd97ba1f7332d8 *R/batsman4s.R
@@ -36,12 +36,14 @@ a588ce6c0f3f5beb25558eb75bfaa83d *R/bowlerWktsFreqPercent.R
 aeecf0a06785dd5afc81524c04a6d003 *R/bowlerWktsRunsPlot.R
 eb20b52fa327ea969a600c253dc1c755 *R/checkBatsmanInForm.R
 43a7468f57314a9ce57c5195ea974d00 *R/checkBowlerInForm.R
-e6bae0547170e3caadc3c2f956e9bb81 *R/clean.R
-edfb89a3019bbe6aee10ffa225b2af5e *R/cleanBowlerData.R
+ac320698c035a73a19bf3406f264d72b *R/clean.R
+d630d36c042f5f457261736825fecd3e *R/cleanBowlerData.R
 e124e81e419698a274df2bab7d23ef31 *R/cleanTeamData.R
 06c9aceb28d057f81131950ea5536573 *R/getMatchType.R
 561955377553e24fdd1e497707aa6a39 *R/getPlayerData.R
+40b16a2c1e0a5ed1c6d52e8b3828a193 *R/getPlayerDataHA.R
 35931bd34bd5635fc3b1d428f627679b *R/getPlayerDataOD.R
+4d1888ae28c4b6f2b3ee9b456f5f88af *R/getPlayerDataOppnHA.R
 44afad137dbde2715ed4451d4dfd0be9 *R/getPlayerDataSp.R
 d6e076ad35788fe02aa47badf4c6c136 *R/getPlayerDataTT.R
 8140363808b95849c333c650845b576e *R/getTeamData.R
@@ -63,7 +65,7 @@ e1331f2c378427ba6fa6391f8f80275b *R/relativeRunsFreqPerfODTT.R
 22b8989f84a8d8f8646fd3a64bca257a *R/teamWinLossStatusAtGrounds.R
 37ef4757a2033dcb28777f423a6ab4c1 *R/teamWinLossStatusVsOpposition.R
 16634a475b951878816428c143a84812 *README.md
-58b2fa994a14302b793008c3a58931bc *build/partial.rdb
+4bdfdd248a0b321d19f9fc33b7053d22 *build/partial.rdb
 8dbb05eee300020a792781d3d04a5460 *data/ashwin.csv
 dc90a1d85b4184be72988871ffc73e85 *data/ashwin1.csv
 579b43decd7ec0855339115114c12e2c *data/badree.csv
@@ -141,7 +143,9 @@ df4d9eeaebbdae137783eba2d08cf97b *man/cleanTeamData.Rd
 efcc5ad4b6a42aeaf070dea68a9be270 *man/gayle.Rd
 76f51dc32b6720a7a2d4a0f832a50f52 *man/getMatchType.Rd
 4584cc905d821dd4b65dd5081395739f *man/getPlayerData.Rd
+22142054405820fc4a7ead1d5473a961 *man/getPlayerDataHA.Rd
 4eccecba51500331f05685d06c42e166 *man/getPlayerDataOD.Rd
+54fe1ff7a4aaf0d91c7bd0d048f06001 *man/getPlayerDataOppnHA.Rd
 1762d8c2c044ac015542af0197e133ea *man/getPlayerDataSp.Rd
 86274490e9f7e2078b898be15905ef36 *man/getPlayerDataTT.Rd
 98dec5ec173e45a3b0f0aa8f373abbcc *man/getTeamData.Rd
