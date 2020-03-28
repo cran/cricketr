@@ -1,6 +1,6 @@
-09595c81c90d86077bd8664be2fc2ad6 *DESCRIPTION
+b8a7ed30a0e5a9ed4f06d80b546074fc *DESCRIPTION
 a9099afe406d7320126ae1bcdc8b2ca3 *LICENSE
-0a412bc4eb853c947d621248f361e7f6 *NAMESPACE
+99c561b1740d9d841553504bbb664c94 *NAMESPACE
 2e1f05fdc1b4a31e96bd97ba1f7332d8 *R/batsman4s.R
 40d3f717bac07adb0f85baf1b35aa6d8 *R/batsman4s6s.R
 69efdeecde4b0cff5e5c806bf8fba373 *R/batsman6s.R
@@ -40,13 +40,13 @@ ac320698c035a73a19bf3406f264d72b *R/clean.R
 d630d36c042f5f457261736825fecd3e *R/cleanBowlerData.R
 e124e81e419698a274df2bab7d23ef31 *R/cleanTeamData.R
 06c9aceb28d057f81131950ea5536573 *R/getMatchType.R
-561955377553e24fdd1e497707aa6a39 *R/getPlayerData.R
+226b59a0674a4289f00fe182d94c5ba4 *R/getPlayerData.R
 40b16a2c1e0a5ed1c6d52e8b3828a193 *R/getPlayerDataHA.R
-35931bd34bd5635fc3b1d428f627679b *R/getPlayerDataOD.R
+8d4f676a10be534d05ad5642465aeb01 *R/getPlayerDataOD.R
 4d1888ae28c4b6f2b3ee9b456f5f88af *R/getPlayerDataOppnHA.R
 44afad137dbde2715ed4451d4dfd0be9 *R/getPlayerDataSp.R
-d6e076ad35788fe02aa47badf4c6c136 *R/getPlayerDataTT.R
-8140363808b95849c333c650845b576e *R/getTeamData.R
+799ce808995bf1fbf80119b8fef4b3d0 *R/getPlayerDataTT.R
+7fd4ecd8df1121503653a0278ccfc3c8 *R/getTeamData.R
 e5373c6b9d2d426428c9c51b0fc8f3cf *R/getTeamDataHomeAway.R
 80667ac844ef7a31aaa862a1054b0c0e *R/getTeamNumber.R
 1c935c048c35ae4ca4658b707dc076f6 *R/plotTimelineofWinsLosses.R
@@ -65,7 +65,7 @@ e1331f2c378427ba6fa6391f8f80275b *R/relativeRunsFreqPerfODTT.R
 22b8989f84a8d8f8646fd3a64bca257a *R/teamWinLossStatusAtGrounds.R
 37ef4757a2033dcb28777f423a6ab4c1 *R/teamWinLossStatusVsOpposition.R
 16634a475b951878816428c143a84812 *README.md
-4bdfdd248a0b321d19f9fc33b7053d22 *build/partial.rdb
+585561d79bef45e50e7854716daa9883 *build/partial.rdb
 8dbb05eee300020a792781d3d04a5460 *data/ashwin.csv
 dc90a1d85b4184be72988871ffc73e85 *data/ashwin1.csv
 579b43decd7ec0855339115114c12e2c *data/badree.csv
